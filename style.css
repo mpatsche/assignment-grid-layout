@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    max-width: 100%;
+}
+.mainheader {
+	border-bottom: 1px dotted #999;
+}
+.panel {
+	background-color: #efefef;
+    padding: 10px;
+}
+.mainfooter {
+	background-color: #666;
+	color: #fff;
+    padding: 10px;
+}
